@@ -1,0 +1,8 @@
+this repositry contains python code for:
+These are some practice questions for you guys:
+1) Find the Area and circumference of a circle (Assume radius as per your choice)
+2) Find the Sum of N natural numbers (where N is your input )
+3) Check if the input number is prime or not 
+4) Check If a number is Palindrome or not (A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam, racecar. There are also numeric palindromes, including date/time stamps using short digits 11 / 11 / 11 11:11 and long digits 02 / 02 / 2020)
+5) Write a code to find the Nth Fibonacci number 
+6) Write a code to Reverse the number input by user
